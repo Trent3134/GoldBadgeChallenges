@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\02_Challenge.Data\02_Challenge.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_02_Challenge.Repository</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- <Nullable>enable</Nullable> --> 
+  </PropertyGroup>
+
+</Project>

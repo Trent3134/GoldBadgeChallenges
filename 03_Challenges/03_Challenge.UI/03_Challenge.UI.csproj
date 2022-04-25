@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\03_Challenge.Data\03_Challenge.Data.csproj" />
+    <ProjectReference Include="..\03_Challenge.Repository\03_Challenge.Repository.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_03_Challenge.UI</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- <Nullable>enable</Nullable> -->
+  </PropertyGroup>
+
+</Project>

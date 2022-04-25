@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "03_Challenge.UI/1.0.0": {
+        "dependencies": {
+          "03_Challenge.Data": "1.0.0",
+          "03_Challenge.Repository": "1.0.0"
+        },
+        "runtime": {
+          "03_Challenge.UI.dll": {}
+        }
+      },
+      "03_Challenge.Data/1.0.0": {
+        "runtime": {
+          "03_Challenge.Data.dll": {}
+        }
+      },
+      "03_Challenge.Repository/1.0.0": {
+        "dependencies": {
+          "03_Challenge.Data": "1.0.0"
+        },
+        "runtime": {
+          "03_Challenge.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03_Challenge.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03_Challenge.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03_Challenge.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

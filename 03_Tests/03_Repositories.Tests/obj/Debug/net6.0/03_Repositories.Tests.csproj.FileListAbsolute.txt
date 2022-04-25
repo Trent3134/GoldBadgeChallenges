@@ -1,0 +1,6 @@
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\obj\Debug\net6.0\03_Repositories.Tests.csproj.AssemblyReference.cache
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\obj\Debug\net6.0\03_Repositories.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\obj\Debug\net6.0\03_Repositories.Tests.AssemblyInfoInputs.cache
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\obj\Debug\net6.0\03_Repositories.Tests.AssemblyInfo.cs
+c:\GoldBadgeChallenge\03_Tests\03_Repositories.Tests\obj\Debug\net6.0\03_Repositories.Tests.csproj.CoreCompileInputs.cache

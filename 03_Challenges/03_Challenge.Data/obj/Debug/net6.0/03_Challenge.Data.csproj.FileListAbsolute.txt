@@ -1,0 +1,12 @@
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.csproj.AssemblyReference.cache
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.AssemblyInfoInputs.cache
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.AssemblyInfo.cs
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.csproj.CoreCompileInputs.cache
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\bin\Debug\net6.0\03_Challenge.Data.deps.json
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\bin\Debug\net6.0\03_Challenge.Data.dll
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\bin\Debug\net6.0\03_Challenge.Data.pdb
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.dll
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\refint\03_Challenge.Data.dll
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\03_Challenge.Data.pdb
+C:\GoldBadgeChallenge\03_Challenges\03_Challenge.Data\obj\Debug\net6.0\ref\03_Challenge.Data.dll
